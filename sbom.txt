@@ -1,0 +1,1286 @@
+SPDXID: SPDXRef-DOCUMENT
+creationInfo:
+  created: '2025-05-29T14:08:18Z'
+  creators:
+  - 'Tool: meta-package-manager-5.21.0'
+dataLicense: CC0-1.0
+documentNamespace: https://github.com/kdeldycke/meta-package-manager/releases/tag/v5.21.0/68b1d50dab8032e5cb5eb3300ab9347
+name: Unknown-Linux-Linux-6.14.6-300.fc42.x86-64-x86-64
+packages:
+- SPDXID: SPDXRef-pkg-npm-40mermaid-js-mermaid-cli-11.4.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:npm/%40mermaid-js/mermaid-cli@11.4.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: '@mermaid-js/mermaid-cli'
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Node''s npm'
+  versionInfo: 11.4.2
+- SPDXID: SPDXRef-pkg-npm-corepack-0.32.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:npm/corepack@0.32.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: corepack
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Node''s npm'
+  versionInfo: 0.32.0
+- SPDXID: SPDXRef-pkg-npm-mermaid-filter-1.4.7
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:npm/mermaid-filter@1.4.7
+    referenceType: purl
+  filesAnalyzed: false
+  name: mermaid-filter
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Node''s npm'
+  versionInfo: 1.4.7
+- SPDXID: SPDXRef-pkg-npm-npm-11.3.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:npm/npm@11.3.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: npm
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Node''s npm'
+  versionInfo: 11.3.0
+- SPDXID: SPDXRef-pkg-gem-abbrev-0.1.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/abbrev@0.1.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: abbrev
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.2
+- SPDXID: SPDXRef-pkg-gem-base64-0.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/base64@0.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: base64
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.0
+- SPDXID: SPDXRef-pkg-gem-benchmark-0.4.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/benchmark@0.4.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: benchmark
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.0
+- SPDXID: SPDXRef-pkg-gem-bigdecimal-3.1.8
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/bigdecimal@3.1.8
+    referenceType: purl
+  filesAnalyzed: false
+  name: bigdecimal
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.1.8
+- SPDXID: SPDXRef-pkg-gem-bundler-2.6.9
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/bundler@2.6.9
+    referenceType: purl
+  filesAnalyzed: false
+  name: bundler
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 2.6.9
+- SPDXID: SPDXRef-pkg-gem-cgi-0.4.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/cgi@0.4.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: cgi
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.2
+- SPDXID: SPDXRef-pkg-gem-csv-3.3.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/csv@3.3.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: csv
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.3.2
+- SPDXID: SPDXRef-pkg-gem-date-3.4.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/date@3.4.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: date
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.4.1
+- SPDXID: SPDXRef-pkg-gem-debug-1.10.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/debug@1.10.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: debug
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.10.0
+- SPDXID: SPDXRef-pkg-gem-delegate-0.4.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/delegate@0.4.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: delegate
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.0
+- SPDXID: SPDXRef-pkg-gem-did-you-mean-2.0.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/did_you_mean@2.0.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: did_you_mean
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 2.0.0
+- SPDXID: SPDXRef-pkg-gem-digest-3.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/digest@3.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: digest
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.2.0
+- SPDXID: SPDXRef-pkg-gem-drb-2.2.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/drb@2.2.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: drb
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 2.2.1
+- SPDXID: SPDXRef-pkg-gem-english-0.8.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/english@0.8.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: english
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.8.0
+- SPDXID: SPDXRef-pkg-gem-erb-4.0.4
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/erb@4.0.4
+    referenceType: purl
+  filesAnalyzed: false
+  name: erb
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 4.0.4
+- SPDXID: SPDXRef-pkg-gem-error-highlight-0.7.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/error_highlight@0.7.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: error_highlight
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.7.0
+- SPDXID: SPDXRef-pkg-gem-etc-1.4.5
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/etc@1.4.5
+    referenceType: purl
+  filesAnalyzed: false
+  name: etc
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.4.5
+- SPDXID: SPDXRef-pkg-gem-fcntl-1.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/fcntl@1.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: fcntl
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.2.0
+- SPDXID: SPDXRef-pkg-gem-fiddle-1.1.6
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/fiddle@1.1.6
+    referenceType: purl
+  filesAnalyzed: false
+  name: fiddle
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.1.6
+- SPDXID: SPDXRef-pkg-gem-fileutils-1.7.3
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/fileutils@1.7.3
+    referenceType: purl
+  filesAnalyzed: false
+  name: fileutils
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.7.3
+- SPDXID: SPDXRef-pkg-gem-find-0.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/find@0.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: find
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.0
+- SPDXID: SPDXRef-pkg-gem-forwardable-1.3.3
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/forwardable@1.3.3
+    referenceType: purl
+  filesAnalyzed: false
+  name: forwardable
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.3.3
+- SPDXID: SPDXRef-pkg-gem-getoptlong-0.2.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/getoptlong@0.2.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: getoptlong
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.1
+- SPDXID: SPDXRef-pkg-gem-io-console-0.8.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/io-console@0.8.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: io-console
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.8.0
+- SPDXID: SPDXRef-pkg-gem-io-nonblock-0.3.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/io-nonblock@0.3.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: io-nonblock
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.1
+- SPDXID: SPDXRef-pkg-gem-io-wait-0.3.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/io-wait@0.3.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: io-wait
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.1
+- SPDXID: SPDXRef-pkg-gem-ipaddr-1.2.7
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/ipaddr@1.2.7
+    referenceType: purl
+  filesAnalyzed: false
+  name: ipaddr
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.2.7
+- SPDXID: SPDXRef-pkg-gem-irb-1.14.3
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/irb@1.14.3
+    referenceType: purl
+  filesAnalyzed: false
+  name: irb
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.14.3
+- SPDXID: SPDXRef-pkg-gem-json-2.9.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/json@2.9.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: json
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 2.9.1
+- SPDXID: SPDXRef-pkg-gem-logger-1.6.4
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/logger@1.6.4
+    referenceType: purl
+  filesAnalyzed: false
+  name: logger
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.6.4
+- SPDXID: SPDXRef-pkg-gem-matrix-0.4.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/matrix@0.4.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: matrix
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.2
+- SPDXID: SPDXRef-pkg-gem-minitest-5.25.4
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/minitest@5.25.4
+    referenceType: purl
+  filesAnalyzed: false
+  name: minitest
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 5.25.4
+- SPDXID: SPDXRef-pkg-gem-mutex-m-0.3.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/mutex_m@0.3.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: mutex_m
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.0
+- SPDXID: SPDXRef-pkg-gem-net-ftp-0.3.8
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/net-ftp@0.3.8
+    referenceType: purl
+  filesAnalyzed: false
+  name: net-ftp
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.8
+- SPDXID: SPDXRef-pkg-gem-net-http-0.6.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/net-http@0.6.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: net-http
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.6.0
+- SPDXID: SPDXRef-pkg-gem-net-imap-0.5.8
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/net-imap@0.5.8
+    referenceType: purl
+  filesAnalyzed: false
+  name: net-imap
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.5.8
+- SPDXID: SPDXRef-pkg-gem-net-pop-0.1.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/net-pop@0.1.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: net-pop
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.2
+- SPDXID: SPDXRef-pkg-gem-net-protocol-0.2.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/net-protocol@0.2.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: net-protocol
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.2
+- SPDXID: SPDXRef-pkg-gem-net-smtp-0.5.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/net-smtp@0.5.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: net-smtp
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.5.1
+- SPDXID: SPDXRef-pkg-gem-nkf-0.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/nkf@0.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: nkf
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.0
+- SPDXID: SPDXRef-pkg-gem-observer-0.1.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/observer@0.1.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: observer
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.2
+- SPDXID: SPDXRef-pkg-gem-open-uri-0.5.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/open-uri@0.5.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: open-uri
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.5.0
+- SPDXID: SPDXRef-pkg-gem-open3-0.2.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/open3@0.2.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: open3
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.1
+- SPDXID: SPDXRef-pkg-gem-openssl-3.3.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/openssl@3.3.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: openssl
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.3.0
+- SPDXID: SPDXRef-pkg-gem-optparse-0.6.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/optparse@0.6.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: optparse
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.6.0
+- SPDXID: SPDXRef-pkg-gem-ostruct-0.6.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/ostruct@0.6.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: ostruct
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.6.1
+- SPDXID: SPDXRef-pkg-gem-pathname-0.4.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/pathname@0.4.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: pathname
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.0
+- SPDXID: SPDXRef-pkg-gem-power-assert-2.0.5
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/power_assert@2.0.5
+    referenceType: purl
+  filesAnalyzed: false
+  name: power_assert
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 2.0.5
+- SPDXID: SPDXRef-pkg-gem-pp-0.6.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/pp@0.6.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: pp
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.6.2
+- SPDXID: SPDXRef-pkg-gem-prettyprint-0.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/prettyprint@0.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: prettyprint
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.0
+- SPDXID: SPDXRef-pkg-gem-prime-0.1.3
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/prime@0.1.3
+    referenceType: purl
+  filesAnalyzed: false
+  name: prime
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.3
+- SPDXID: SPDXRef-pkg-gem-prism-1.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/prism@1.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: prism
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.2.0
+- SPDXID: SPDXRef-pkg-gem-pstore-0.1.4
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/pstore@0.1.4
+    referenceType: purl
+  filesAnalyzed: false
+  name: pstore
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.4
+- SPDXID: SPDXRef-pkg-gem-psych-5.2.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/psych@5.2.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: psych
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 5.2.2
+- SPDXID: SPDXRef-pkg-gem-racc-1.8.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/racc@1.8.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: racc
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.8.1
+- SPDXID: SPDXRef-pkg-gem-rake-13.2.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/rake@13.2.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: rake
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 13.2.1
+- SPDXID: SPDXRef-pkg-gem-rbs-3.8.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/rbs@3.8.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: rbs
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.8.0
+- SPDXID: SPDXRef-pkg-gem-rdoc-6.10.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/rdoc@6.10.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: rdoc
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 6.10.0
+- SPDXID: SPDXRef-pkg-gem-readline-0.0.4
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/readline@0.0.4
+    referenceType: purl
+  filesAnalyzed: false
+  name: readline
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.0.4
+- SPDXID: SPDXRef-pkg-gem-reline-0.6.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/reline@0.6.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: reline
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.6.0
+- SPDXID: SPDXRef-pkg-gem-repl-type-completor-0.1.9
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/repl_type_completor@0.1.9
+    referenceType: purl
+  filesAnalyzed: false
+  name: repl_type_completor
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.9
+- SPDXID: SPDXRef-pkg-gem-resolv-0.6.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/resolv@0.6.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: resolv
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.6.0
+- SPDXID: SPDXRef-pkg-gem-resolv-replace-0.1.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/resolv-replace@0.1.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: resolv-replace
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.1
+- SPDXID: SPDXRef-pkg-gem-rexml-3.4.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/rexml@3.4.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: rexml
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.4.0
+- SPDXID: SPDXRef-pkg-gem-rinda-0.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/rinda@0.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: rinda
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.0
+- SPDXID: SPDXRef-pkg-gem-rss-0.3.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/rss@0.3.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: rss
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.1
+- SPDXID: SPDXRef-pkg-gem-ruby2-keywords-0.0.5
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/ruby2_keywords@0.0.5
+    referenceType: purl
+  filesAnalyzed: false
+  name: ruby2_keywords
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.0.5
+- SPDXID: SPDXRef-pkg-gem-securerandom-0.4.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/securerandom@0.4.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: securerandom
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.1
+- SPDXID: SPDXRef-pkg-gem-set-1.1.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/set@1.1.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: set
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.1.1
+- SPDXID: SPDXRef-pkg-gem-shellwords-0.2.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/shellwords@0.2.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: shellwords
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.2
+- SPDXID: SPDXRef-pkg-gem-singleton-0.3.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/singleton@0.3.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: singleton
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.0
+- SPDXID: SPDXRef-pkg-gem-stringio-3.1.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/stringio@3.1.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: stringio
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.1.2
+- SPDXID: SPDXRef-pkg-gem-strscan-3.1.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/strscan@3.1.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: strscan
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.1.2
+- SPDXID: SPDXRef-pkg-gem-syntax-suggest-2.0.2
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/syntax_suggest@2.0.2
+    referenceType: purl
+  filesAnalyzed: false
+  name: syntax_suggest
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 2.0.2
+- SPDXID: SPDXRef-pkg-gem-syslog-0.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/syslog@0.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: syslog
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.0
+- SPDXID: SPDXRef-pkg-gem-tempfile-0.3.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/tempfile@0.3.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: tempfile
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.1
+- SPDXID: SPDXRef-pkg-gem-test-unit-3.6.7
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/test-unit@3.6.7
+    referenceType: purl
+  filesAnalyzed: false
+  name: test-unit
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.6.7
+- SPDXID: SPDXRef-pkg-gem-time-0.4.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/time@0.4.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: time
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.1
+- SPDXID: SPDXRef-pkg-gem-timeout-0.4.3
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/timeout@0.4.3
+    referenceType: purl
+  filesAnalyzed: false
+  name: timeout
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.3
+- SPDXID: SPDXRef-pkg-gem-tmpdir-0.3.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/tmpdir@0.3.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: tmpdir
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.1
+- SPDXID: SPDXRef-pkg-gem-tsort-0.2.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/tsort@0.2.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: tsort
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.2.0
+- SPDXID: SPDXRef-pkg-gem-typeprof-0.30.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/typeprof@0.30.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: typeprof
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.30.1
+- SPDXID: SPDXRef-pkg-gem-un-0.3.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/un@0.3.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: un
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.3.0
+- SPDXID: SPDXRef-pkg-gem-uri-1.0.3
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/uri@1.0.3
+    referenceType: purl
+  filesAnalyzed: false
+  name: uri
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 1.0.3
+- SPDXID: SPDXRef-pkg-gem-weakref-0.1.3
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/weakref@0.1.3
+    referenceType: purl
+  filesAnalyzed: false
+  name: weakref
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.1.3
+- SPDXID: SPDXRef-pkg-gem-yaml-0.4.0
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/yaml@0.4.0
+    referenceType: purl
+  filesAnalyzed: false
+  name: yaml
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 0.4.0
+- SPDXID: SPDXRef-pkg-gem-zlib-3.2.1
+  downloadLocation: https://www.example.com
+  externalRefs:
+  - referenceCategory: PACKAGE_MANAGER
+    referenceLocator: pkg:gem/zlib@3.2.1
+    referenceType: purl
+  filesAnalyzed: false
+  name: zlib
+  primaryPackagePurpose: INSTALL
+  supplier: 'Organization: Ruby Gems'
+  versionInfo: 3.2.1
+relationships:
+- relatedSpdxElement: SPDXRef-pkg-npm-40mermaid-js-mermaid-cli-11.4.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-npm-corepack-0.32.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-npm-mermaid-filter-1.4.7
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-npm-npm-11.3.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-abbrev-0.1.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-base64-0.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-benchmark-0.4.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-bigdecimal-3.1.8
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-bundler-2.6.9
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-cgi-0.4.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-csv-3.3.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-date-3.4.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-debug-1.10.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-delegate-0.4.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-did-you-mean-2.0.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-digest-3.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-drb-2.2.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-english-0.8.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-erb-4.0.4
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-error-highlight-0.7.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-etc-1.4.5
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-fcntl-1.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-fiddle-1.1.6
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-fileutils-1.7.3
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-find-0.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-forwardable-1.3.3
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-getoptlong-0.2.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-io-console-0.8.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-io-nonblock-0.3.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-io-wait-0.3.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-ipaddr-1.2.7
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-irb-1.14.3
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-json-2.9.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-logger-1.6.4
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-matrix-0.4.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-minitest-5.25.4
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-mutex-m-0.3.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-net-ftp-0.3.8
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-net-http-0.6.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-net-imap-0.5.8
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-net-pop-0.1.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-net-protocol-0.2.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-net-smtp-0.5.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-nkf-0.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-observer-0.1.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-open-uri-0.5.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-open3-0.2.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-openssl-3.3.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-optparse-0.6.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-ostruct-0.6.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-pathname-0.4.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-power-assert-2.0.5
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-pp-0.6.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-prettyprint-0.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-prime-0.1.3
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-prism-1.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-pstore-0.1.4
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-psych-5.2.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-racc-1.8.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-rake-13.2.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-rbs-3.8.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-rdoc-6.10.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-readline-0.0.4
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-reline-0.6.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-repl-type-completor-0.1.9
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-resolv-0.6.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-resolv-replace-0.1.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-rexml-3.4.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-rinda-0.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-rss-0.3.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-ruby2-keywords-0.0.5
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-securerandom-0.4.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-set-1.1.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-shellwords-0.2.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-singleton-0.3.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-stringio-3.1.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-strscan-3.1.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-syntax-suggest-2.0.2
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-syslog-0.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-tempfile-0.3.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-test-unit-3.6.7
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-time-0.4.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-timeout-0.4.3
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-tmpdir-0.3.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-tsort-0.2.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-typeprof-0.30.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-un-0.3.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-uri-1.0.3
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-weakref-0.1.3
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-yaml-0.4.0
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+- relatedSpdxElement: SPDXRef-pkg-gem-zlib-3.2.1
+  relationshipType: DESCRIBES
+  spdxElementId: SPDXRef-DOCUMENT
+spdxVersion: SPDX-2.3
+
